@@ -23,4 +23,4 @@ var currentLine = function (katzDeliLine) {
   return "The line is currently: " + customerAndNumber.join(", ");
 }
 
-newC
+
